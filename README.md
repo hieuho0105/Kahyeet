@@ -4,6 +4,7 @@ Kahyeet is a multiplayer quiz game inspired by Kahoot. This project consists of 
 
 ## Project Structure
 
+```
 Kahyeet_Project
 ├── App
 │   ├── Client
@@ -41,6 +42,7 @@ Kahyeet_Project
     ├── Question_UI.png
     ├── Server_Management.png
     └── Waiting_Room.png
+```
 
 ## Project Files
 
@@ -71,19 +73,22 @@ Kahyeet_Project
 
 Questions in `questions.txt` should follow this format:
 
+```
 Question 1
 Answer 1
 Answer 2
 Answer 3
 Answer 4_@#
+<empty line>
 
 Question 2
 Answer 1
 Answer 2
 Answer 3_@#
 Answer 4
+<empty line>
+```
 
-…
 The correct answer for each question is marked with `_@#` after the answer text.
 
 ## Screenshots
@@ -97,10 +102,10 @@ The correct answer for each question is marked with `_@#` after the answer text.
   </tr>
   <tr>
     <td style="text-align:center;">
-      <img src="Pic/Player_Login.png" alt="Login Screen" width="400" />
+      <img src="KAHYEET/Pic/Player_Login.png" alt="Login Screen" width="400" />
     </td>
     <td style="text-align:center;">
-      <img src="Pic/Waiting_Room.png" alt="Waiting Room" width="400" />
+      <img src="KAHYEET/Pic/Waiting_Room.png" alt="Waiting Room" width="400" />
     </td>
   </tr>
   <tr>
@@ -109,10 +114,10 @@ The correct answer for each question is marked with `_@#` after the answer text.
   </tr>
   <tr>
     <td style="text-align:center;">
-      <img src="Pic/Server_Management.png" alt="Server Management" width="400" />
+      <img src="KAHYEET/Pic/Server_Management.png" alt="Server Management" width="400" />
     </td>
     <td style="text-align:center;">
-      <img src="Pic/KickPlayer_UI.png" alt="Kick Player Screen" width="400" />
+      <img src="KAHYEET/Pic/KickPlayer_UI.png" alt="Kick Player Screen" width="400" />
     </td>
   </tr>
   <tr>
@@ -121,10 +126,10 @@ The correct answer for each question is marked with `_@#` after the answer text.
   </tr>
   <tr>
     <td style="text-align:center;">
-      <img src="Pic/Question_UI.png" alt="Game Screen" width="400" />
+      <img src="KAHYEET/Pic/Question_UI.png" alt="Game Screen" width="400" />
     </td>
     <td style="text-align:center;">
-      <img src="Pic/Leaderboard.png" alt="Leaderboard" width="400" />
+      <img src="KAHYEET/Pic/Leaderboard.png" alt="Leaderboard" width="400" />
     </td>
   </tr>
 </table>
