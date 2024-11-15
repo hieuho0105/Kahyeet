@@ -48,12 +48,12 @@ Kahyeet_Project
 
 - **App Folder**: Contains the compiled executables (`Kahyeet.exe` for the client and `Kahyeet_Server.exe` for the server) for immediate execution.
 - **Code Folder**: Contains source code files and compiled classes for both the client and server.
-- **Pic Folder**: Contains images for documentation and README display.
+- **Pic Folder**: Contains images for documentation.
 
 ## Setup Instructions
 
 1. **Download** and extract the project in a directory without spaces or special characters.
-2. **Edit Code**: The `Code` folder contains editable Java files for Client and Server.
+2. **Edit Code**: The `Code` folder contains editable Java files for Client and Server (optional).
 3. **Run Application**:
    - Use the `.exe` files in the `App` folder to launch the server and client applications directly.
    - For Java developers, you can also use `Kahyeet.jar` and `Kahyeet_Server.jar` in the `Code` folder for running the app in a Java environment.
@@ -79,14 +79,14 @@ Answer 1
 Answer 2
 Answer 3
 Answer 4_@#
-<empty line>
 
 Question 2
 Answer 1
 Answer 2
 Answer 3_@#
 Answer 4
-<empty line>
+
+...
 ```
 
 The correct answer for each question is marked with `_@#` after the answer text.
@@ -141,3 +141,5 @@ The correct answer for each question is marked with `_@#` after the answer text.
 - The `Sound` folder contains audio files used for background music and effects during gameplay.
 
 Feel free to customize this project as needed for your learning or development purposes!
+
+MADE IN EGGPLANT203 WITH LOVE <3
