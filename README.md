@@ -142,4 +142,4 @@ The correct answer for each question is marked with `_@#` after the answer text.
 
 Feel free to customize this project as needed for your learning or development purposes!
 
-MADE IN EGGPLANT203 WITH LOVE <3
+MADE BY EGGPLANT203🍆 WITH LOVE <3
