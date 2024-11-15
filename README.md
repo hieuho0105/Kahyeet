@@ -52,11 +52,17 @@ Kahyeet_Project
 
 ## Setup Instructions
 
-1. **Download** and extract the project in a directory without spaces or special characters.
-2. **Edit Code**: The `Code` folder contains editable Java files for Client and Server (optional).
+To run the Java, JAR, and EXE files, ensure you have the following set up:
+1. **Install Java Development Kit (JDK)**:
+   Download and install the [JDK Development Kit](https://www.oracle.com/java/technologies/downloads/), and set up the environment variables properly for Java to function.
+2. **Download** and extract the project in a directory without spaces or special characters.
+2.5. **Edit Code** (optional): The `Code` folder contains editable Java files for Client and Server.
 3. **Run Application**:
    - Use the `.exe` files in the `App` folder to launch the server and client applications directly.
    - For Java developers, you can also use `Kahyeet.jar` and `Kahyeet_Server.jar` in the `Code` folder for running the app in a Java environment.
+4. **LAN-Only Gameplay**:
+   The application is designed to work on a Local Area Network (LAN). However, if you want to connect players over the internet, it is recommended to use **Radmin VPN** to simulate a LAN environment.
+   Download it here: [Radmin VPN](https://www.radmin-vpn.com/)
 
 ## Usage
 
