@@ -1,0 +1,12 @@
+# Set default behavior to automatically normalize line endings.
+* text=auto
+
+# Normalize line endings for text files
+*.java text
+*.txt text
+
+# Treat binary files as binary to prevent line-ending conversion
+*.wav binary
+*.exe binary
+*.class binary
+*.png binary
